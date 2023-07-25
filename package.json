@@ -1,0 +1,26 @@
+{
+  "name": "nextjs-app",
+  "version": "1.0.0",
+  "description": "A modern web application using the Next.js framework with server-side rendering and routing, TypeScript for type checking and improved developer experience, and Tailwind CSS for styling.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": ["nextjs", "typescript", "tailwindcss"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "typescript": "latest",
+    "tailwindcss": "latest",
+    "postcss": "latest",
+    "autoprefixer": "latest"
+  }
+}
